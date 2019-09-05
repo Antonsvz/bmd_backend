@@ -1,0 +1,1 @@
+web: gunicorn bmd_backend.wsgi --log-file -
